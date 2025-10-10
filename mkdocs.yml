@@ -1,8 +1,8 @@
 # Replace the text below to customize your site
-site_name: Student Name - MDEF & Fab Lab Barcelona
+site_name: Sıla Kara - MDEF & Fab Lab Barcelona
 site_description: Master in Design for Emergent Futures
-site_author: Student Name
-copyright: Copyleft 2023 "Student Name" - GNU Free Documentation License
+site_author: Sıla Kara
+copyright: Copyleft 2023 "Sıla Kara" - GNU Free Documentation License
 repo_name: 'Name : Github Repo'
 site_url: https://fablabbcn.github.io/mdef-template/
 repo_url: 'https://github.com/fablabbcn/mdef-template'
@@ -43,11 +43,11 @@ theme:
   name: material
   palette:
     # try other colors https://squidfunk.github.io/mkdocs-material/getting-started/#primary-colors
-    primary: blue
-    accent: purple
+    primary: dark blue
+    accent: pink
   font:
     # See available fonts at https://fonts.google.com/
-    text: Be Vietnam
+    text: Space Grotesk
     code: Cutive Mono
   icon:
     logo: material/memory
