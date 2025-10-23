@@ -1,7 +1,7 @@
 :root>* {
 
     --md-footer-bg-color: white;
-    --md-footer-fg-color: rgb(32, 32, 32);
+    --md-footer-fg-color: rgb(200, 200, 200);
     --md-footer-bg-color--dark: white;
     --md-footer-fg-color--lighter:  rgb(32, 32, 32);
     --md-footer-fg-color--light:  rgb(32, 32, 32);
@@ -22,7 +22,7 @@
 
   .md-typeset .md-button--primary {
     border-width: 1px;
-    border-color: rgb(219, 219, 219);
+    border-color: rgb(200, 200, 200);
     border-radius: 4px;
   }
 
