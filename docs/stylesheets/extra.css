@@ -11,6 +11,23 @@
 
 }
 
+/* Dark gray background for the entire website */
+body {
+    background-color: #1a1a1a !important;
+}
+
+.md-main {
+    background-color: #1a1a1a !important;
+}
+
+.md-content {
+    background-color: #1a1a1a !important;
+}
+
+.md-container {
+    background-color: #1a1a1a !important;
+}
+
 
 .hide-scroll-bar {
     -ms-overflow-style: none;
