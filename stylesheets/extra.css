@@ -11,21 +11,77 @@
 
 }
 
-/* Dark gray background for the entire website */
+/* Dark blue background for the entire website */
 body {
-    background-color: #1a1a1a !important;
+    background-color: #090638 !important;
+    color: #e7e6ff !important;
 }
 
 .md-main {
-    background-color: #1a1a1a !important;
+    background-color: #090638 !important;
 }
 
 .md-content {
-    background-color: #1a1a1a !important;
+    background-color: #090638 !important;
 }
 
 .md-container {
-    background-color: #1a1a1a !important;
+    background-color: #090638 !important;
+}
+
+/* Set text color for all content */
+.md-typeset {
+    color: #e7e6ff !important;
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4,
+.md-typeset h5,
+.md-typeset h6 {
+    color: #e7e6ff !important;
+}
+
+.md-typeset p,
+.md-typeset li,
+.md-typeset blockquote {
+    color: #e7e6ff !important;
+}
+
+.md-typeset code {
+    color: #e7e6ff !important;
+}
+
+.md-typeset pre {
+    background-color: rgba(231, 230, 255, 0.1) !important;
+    color: #e7e6ff !important;
+}
+
+/* Navigation and header text */
+.md-header__title {
+    color: #e7e6ff !important;
+}
+
+.md-nav__title {
+    color: #e7e6ff !important;
+}
+
+.md-nav__link {
+    color: #e7e6ff !important;
+}
+
+/* Footer text */
+.md-footer {
+    background-color: #090638 !important;
+}
+
+.md-footer-meta {
+    background-color: #090638 !important;
+}
+
+.md-footer-meta__inner {
+    color: #e7e6ff !important;
 }
 
 
