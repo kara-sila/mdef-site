@@ -51,7 +51,7 @@ theme:
     code: Cutive Mono
   icon:
     logo: material/memory
-  favicon: images/favicon-flower.png
+  favicon: images/favicon-2.png
   features:
     - instant
     - navigation.expand
