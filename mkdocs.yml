@@ -17,6 +17,7 @@ nav:
       - Term 1:
           - Bootcamp: term1/01-Bootcamp.md
           - AoWS: term1/02-Atlas of Weak Signals.md
+          - Build: term1/Build.md
 
       - Term 2:
           - digi: term1/01-Bootcamp.md
@@ -53,16 +54,8 @@ theme:
     logo: material/memory
   favicon: images/favicon-sila.png
   features:
-    - instant
-    - navigation.expand
-    - navigation.indexes
-    - navigation.instant
-    # - navigation.prune
-    # - navigation.sections
-    - navigation.tabs
-    - navigation.tabs.sticky
-    - navigation.top
-    - navigation.tracking
+    - tabs
+    
 
 plugins:
   - search
