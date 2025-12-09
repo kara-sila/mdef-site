@@ -8,12 +8,13 @@ hide:
 A weak signal is an indicator to identify a change in the future with little or no impact on the present, but with the potential to lead to the identification of major impact events. They set trends and indicate certain directions and by that draw up future scenarios. A weak signal can be defined as a trend before the trend itself becomes a relevant source of future research. 
 
 During the site visits and our play with the cards we did a tarot pick for 5 cards which are;
-- Anarch-Governence
-- Rural Punk
-- Restorative Justice
-- Ancestoral Knowledge
-- Avatarts
-<img width="1307" height="930" alt="All" src="https://github.com/user-attachments/assets/1fb3bced-7077-49af-b286-fbdec594d4a2" />
+Anarch-Governence,
+Rural Punk,
+Restorative Justice,
+Ancestoral Knowledge,
+Avatarts.
+<img width="1307" height="930" alt="AllCards" src="https://github.com/user-attachments/assets/aed47c36-79a4-4f1b-a5ca-04b6d02aaf6e" />
+
 
 During the ideation about the intersection of the cards we leaned more towards to Anarchy, Burning, Digitalization, Borders of Legality...
 
