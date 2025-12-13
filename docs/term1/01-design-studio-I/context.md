@@ -40,4 +40,4 @@ Throughout the process, i moved, jumped, danced in various places; my home, in t
 Public movement, in this context, is not entertainment. It is a form of inquiry. A way to test how bodies are allowed to exist—and how they might exist otherwise.
 
 <iframe width="560" height="315" src="https://youtu.be/fSZiJ8PNEaw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
--> you can [click here](https://youtu.be/fSZiJ8PNEaw) if you can't view the video.
+You can [click here](https://youtu.be/fSZiJ8PNEaw) if you can't view the video.
