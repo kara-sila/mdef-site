@@ -1,3 +1,10 @@
-# Act: Uniqlo
+# Act II: Uniqlo Corridor
 
-xxx
+## Conceptual Framework
+This project examines how an intimate, partner-based movement danced by two women can momentarily shift the behavioral expectations of a highly commercial and touristic public space. The chosen site directly in front of the Uniqlo store on Passeig de Gràcia—operates as a corridor of consumption, photography, and spectacle. In this environment, bodies are expected to circulate smoothly, observe passively, and engage primarily as consumers. Public movement is shaped by branding, storefront displays, and the constant presence of people documenting their surroundings.
+
+By introducing a slow, relational tango into this setting, the intervention tests how the dominant rhythms of tourism can be subtly disrupted without obstructing pedestrian flow. The act is not framed as entertainment for passersby but as an alternative form of presence inserted into a space where performances are typically commercialized or curated. The dancers’ gesture introduces a non-transactional, non-commodified action that contrasts with the commercial logic of the boulevard.
+
+The act generates a temporary autonomous zone within a space governed by consumption, surveillance, and constant visual capture. This temporary zone appears through embodied action: normative tourist behaviors like photographing, browsing, rushing that are interrupted or renegotiated in the presence of a movement that does not seek their attention. The act is neither a street performance nor a promotional gesture; rather, it becomes a method for observing how tourists respond to an encounter that sits outside their expectations of entertainment or attraction.
+
+This framework focuses on how different forms of spectatorship emerge: who stops, who records, who ignores, and who reroutes. It also considers how the dancers manage visibility and vulnerability in a context where observation is habitual and often intrusive. The intervention reveals the tensions between individual autonomy and commercial spectacle, between embodied presence and the consumer choreography that structures touristic public space.
