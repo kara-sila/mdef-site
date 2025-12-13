@@ -11,8 +11,8 @@ repo_url: 'https://github.com/fablabbcn/mdef-template'
 nav:
   - Home: index.md
   - About: about/me.md
-  - Master project:
-      - Initial ideas: project/project.md
+  #- Master project:
+     # - Initial ideas: project/project.md
   - Deliverables :
       - Term 1:
           - Design Studio I:
