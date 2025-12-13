@@ -3,7 +3,7 @@ hide:
     - toc
 ---
 
-# Act: Metro Corridor
+# Act I: Metro Corridor
 
 ## Conceptual Framework
 This project explores how an intimate and partner-based movemement danced by two women can temporarily reorganize the behavioral and spatial norms of a narrow underground corridor. This location is selected for its physical and social conditions; long, poorly ventilated and continuously filled with random commuters. In this environments it is expected to follow linear trajectories, avoid contact, and prioritize efficiency over presense. By inserting a slow and responsive dance into this space, the intervention tests how the existing flow of public transit can be disrupted without blocking it. The act is not a performance staged for and audience; but a momentary reconfiguration of an everyday flow. The dancers’ presence introduces a non-functional movement that contrasts with the corridors utilitarian logic.
