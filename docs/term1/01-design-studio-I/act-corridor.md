@@ -10,4 +10,5 @@ This project explores how an intimate and partner-based movemement danced by two
 
 The act creates a temporary autonomous zone within a highly regulated environment. This temporary zone emerges through the embodied action where normative behaviors are suspended or replaced with proximity, attention and co-presence. The act is neither a performance for spectators nor an attempt to disrupt transportation. This framework positions the intervention as a method for observing how commuters negotiate, resist, ignore or absorb this autonomous zone and how dancers manage vulnerability within an unchosen audience. It focuses on how such an ephemeral intervention reveals the tensions between individual movement and the way the infrastructure dictates behavior.
 
-you can [click here](https://youtu.be/eAfCKpNzZ-c), if you can't view the video.
+<iframe width="560" height="315" src="https://youtu.be/eAfCKpNzZ-c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
+You can [click here](https://youtu.be/eAfCKpNzZ-c), if you can't view the video.
