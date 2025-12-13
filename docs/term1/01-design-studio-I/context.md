@@ -14,7 +14,7 @@ These learnings are deeply embodied, passed down from society: we learned that g
 
 My auto-ethnographic exploration of movement in public spaces emerges from the tension between inner rhythm and societal tempo. I observe my body as both subject and tool—understanding how motion regulates my stress, how visibility triggers shame, and how the act of moving publicly becomes an act of reclaiming presence.
 
-Public movement is only glorified when it’s filmed and put on social media, movement becomes Instagrammable in the eyes of watchers. Public movement is an act of vulnerability, it’s shameful, powerful, terrifying, uncomfortable, and necessary. In an environment that values speed and productivity over well-being, movement as reflection without purpose becomes rebellion. We feel caged because we live by rules that were taught, not chosen. I believe the body remembers what the mind forgets, and the body knows when the mind is lost in a 9 to 5 trance.
+Public movement is only glorified when it’s filmed and put on social media, movement becomes Instagrammable in the eyes of watchers. **Public movement is an act of vulnerability, it’s shameful, powerful, terrifying, uncomfortable, and necessary**. In an environment that values speed and productivity over well-being, **movement as reflection without purpose becomes rebellion**. We feel caged because we live by rules that were taught, not chosen. I believe the body remembers what the mind forgets, and the body knows when the mind is lost in a 9 to 5 trance.
 
 I refuse to move only when the world allows it. I will dance because I feel like it and because I am tired of being still.
 
@@ -24,7 +24,7 @@ listen to your body
 notice the world around you
 notice the rhythm of your environment rather than the voices telling you to stop.
 dance like nobody’s monetizing it.
-I invite you to feel uncomfortable, and ashamed.
+**I invite you to feel uncomfortable, and ashamed.**
 Use dance as a method, a meditation, and a manifesto.
 
 1. Each one of us is a dancer.
