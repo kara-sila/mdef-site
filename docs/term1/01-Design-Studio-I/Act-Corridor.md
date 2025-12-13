@@ -3,8 +3,8 @@ hide:
     - toc
 ---
 
-# Design Studio
+# Act: Corridor
 
-## Context
+## Corridor
 
 Here will be the context...
