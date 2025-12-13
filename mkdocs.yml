@@ -16,11 +16,12 @@ nav:
   - Deliverables :
       - Term 1:
           - Design Studio I:
-            - Context: term1/Design Studio.md/Context.md
-            - Index: term1/Design Studio.md/Index.md
-          - AoWS: term1/Atlas of Weak Signals.md
-          - Living With Your Own Ideas: term1/Living With Your Own Ideas.md
-          - Unpacking Tech Systems: term1/Unpacking Tech Systems.md
+            - Context: term1/01-Design Studio.md/Context.md
+            - Index: term1/01-Design Studio.md/Index.md
+          - AoWS: term1/02-Atlas of Weak Signals.md
+          - Living With Your Own Ideas: term1/03-Living With Your Own Ideas.md
+          - Unpacking Tech Systems: term1/04-Unpacking Tech Systems.md
+          - Deneme: term1/05-deneme.md
 
       - Term 2:
           - digi: term1/01-Bootcamp.md
