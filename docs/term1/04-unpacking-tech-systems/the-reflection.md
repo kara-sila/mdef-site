@@ -15,11 +15,6 @@ I learned a lot, by failing a lot.
 ### The Zine
 
 This zine is also created from an obsolete paper, without using any technology whatsoever other than pens (not even scissors).
-<iframe src="https://docs.google.com/presentation/d/11oCg4Rsn-FZ2pStcVxBpAlO79dZgjudHXdQ-UKLD75g/edit?usp=sharing"
-        frameborder="0"
-        width="960"
-        height="569"
-        allowfullscreen="true"></iframe>
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQO_ZFUHL3vqGGjWHidKI9hsH8wFgJWXYlSoPt5wnTlbvlVOEj83ji6vqJc1a810ptJO8K1YjMt3ivb/pubembed?start=true&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 Here you can access all the materials created during this course by [clicking here](https://drive.google.com/drive/u/0/folders/1OZxCRbAHARIJJJUJeOI8bP1GqxXKV5md)
