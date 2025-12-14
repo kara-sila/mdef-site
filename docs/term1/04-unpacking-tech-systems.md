@@ -11,3 +11,14 @@ The chosen object was a Sunstech Arch Audio RP-RD3000, a retro-style AM/FM radio
 
 ![GIF_20251120_192906_900](https://github.com/user-attachments/assets/083a8e28-8d80-4c73-8311-7c787999d21b)
 
+#### The Analysis
+We conducted a full forensic teardown of the radio, treating it as evidence rather than equipment. The process included:
+- External and internal disassembly
+- Component cataloguing and documentation
+- Material and manufacturing analysis
+- Power and signal testing using lab equipment
+- Functional tracing of signal flow and control logic
+
+All components were laid out, identified, and documented individually to expose the internal logic of the machine.
+
+The radio operates as a hybrid system:a nalog signal processing (AM/FM reception and demodulation), digital user interface (LCD display, button controls, presets), transformer-based power supply, internal passive speaker with amplification stage.
