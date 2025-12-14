@@ -19,7 +19,9 @@ nav:
             - Context: term1/01-design-studio-I/context.md
             - Act:Corridor: term1/01-design-studio-I/act-corridor.md
             - Act:Uniqlo: term1/01-design-studio-I/act-uniqlo.md
-          - Atlas of Weak Signals: term1/02-atlas-of-weak-signals.md
+          - Atlas of Weak Signals: 
+            - Forensics of Obsolesence: term1/02-atlas-of-weak-signals/forensics.md
+            - Machine Paradox: term1/02-atlas-of-weak-signals/machine-paradox.md
           - Living With Your Own Ideas: term1/03-living-with-your-own-ideas.md
           - Unpacking Tech Systems: term1/04-unpacking-tech-systems.md
           - Design with Others: term1/05-design-with-others.md
