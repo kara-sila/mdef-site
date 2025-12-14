@@ -33,7 +33,8 @@ Microcontroller → LCD + Buttons
 ##### AUX Mode
 External Device → AUX Input → Audio Amplifier → Speaker → Sound
 
-#### A Twist
+
+#### A Twist!
 There was also something really interesting about the radio, which made us intrigued! When we opened up the readio, we realized there's one part that looks like it was added later the production since it looked like a delicate connection which is prone to bozulma incase of a crash or drop. Later we realized this part is the antenna of the radio; several yarn strings attached to an cylindirical object. After examining the structure we realized it might be how the radio is produced during the manufacture process, and if that's the case, this is a clear example of planned obsolesence!
 
 ![IMG_3668 2 (1)](https://github.com/user-attachments/assets/5f45e519-aa76-4e9a-a70f-68ad68224d51)
