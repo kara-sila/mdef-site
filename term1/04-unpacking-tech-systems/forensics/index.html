@@ -475,6 +475,33 @@
     The Analysis
   </a>
   
+    <nav class="md-nav" aria-label="The Analysis">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#radio-mode" class="md-nav__link">
+    Radio Mode
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#aux-mode" class="md-nav__link">
+    AUX Mode
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#a-twist" class="md-nav__link">
+    A Twist
+  </a>
+  
 </li>
         
       </ul>
@@ -601,6 +628,33 @@
     The Analysis
   </a>
   
+    <nav class="md-nav" aria-label="The Analysis">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#radio-mode" class="md-nav__link">
+    Radio Mode
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#aux-mode" class="md-nav__link">
+    AUX Mode
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#a-twist" class="md-nav__link">
+    A Twist
+  </a>
+  
 </li>
         
       </ul>
@@ -639,7 +693,7 @@
 <p>The central question was not how to fix machines, but how to understand them; which part is used for which function, has it opened and hacked before, and how can we use its parts to create something without the limits of keeping everything functional, efective or useful.</p>
 <h3 id="the-radio">The Radio<a class="headerlink" href="#the-radio" title="Permanent link">&para;</a></h3>
 <p>The chosen object was a Sunstech Arch Audio RP-RD3000, a retro-style AM/FM radio designed for domestic use. At the time of examination, the device was somehow operational. Its status was not broken, but obsolete.</p>
-<p><img alt="GIF_20251120_192906_900" src="https://github.com/user-attachments/assets/083a8e28-8d80-4c73-8311-7c787999d21b" /></p>
+<p><img alt="IMG_5544 (2) copy" src="https://github.com/user-attachments/assets/98693265-5138-4d1b-bb08-ea8b27fe4163" /></p>
 <h4 id="the-analysis">The Analysis<a class="headerlink" href="#the-analysis" title="Permanent link">&para;</a></h4>
 <p>We conducted a full forensic teardown of the radio, treating it as evidence rather than equipment. The process included:
 - External and internal disassembly
@@ -647,8 +701,17 @@
 - Material and manufacturing analysis
 - Power and signal testing using lab equipment
 - Functional tracing of signal flow and control logic</p>
-<p>All components were laid out, identified, and documented individually to expose the internal logic of the machine.</p>
-<p>The radio operates as a hybrid system:a nalog signal processing (AM/FM reception and demodulation), digital user interface (LCD display, button controls, presets), transformer-based power supply, internal passive speaker with amplification stage.</p>
+<p>All components were laid out, identified, and documented individually to expose the internal logic of the machine. We also recorded every step of the process to make sure that we would be able to reconstruct everything back.</p>
+<p>The radio operates as a hybrid system: analog signal processing (AM/FM reception and demodulation), digital user interface (LCD display, button controls, presets), transformer-based power supply, internal passive speaker with amplification stage.</p>
+<h5 id="radio-mode">Radio Mode<a class="headerlink" href="#radio-mode" title="Permanent link">&para;</a></h5>
+<p>Radio Waves → Antenna → Tuner → Demodulator → Audio Amplifier → Speaker → Sound
+Microcontroller → LCD + Buttons</p>
+<h5 id="aux-mode">AUX Mode<a class="headerlink" href="#aux-mode" title="Permanent link">&para;</a></h5>
+<p>External Device → AUX Input → Audio Amplifier → Speaker → Sound</p>
+<h4 id="a-twist">A Twist<a class="headerlink" href="#a-twist" title="Permanent link">&para;</a></h4>
+<p>There was also something really interesting about the radio, which made us intrigued! When we opened up the readio, we realized there&rsquo;s one part that looks like it was added later the production since it looked like a delicate connection which is prone to bozulma incase of a crash or drop. Later we realized this part is the antenna of the radio; several yarn strings attached to an cylindirical object. After examining the structure we realized it might be how the radio is produced during the manufacture process, and if that&rsquo;s the case, this is a clear example of planned obsolesence!</p>
+<p><img alt="IMG_3668 2 (1)" src="https://github.com/user-attachments/assets/5f45e519-aa76-4e9a-a70f-68ad68224d51" /></p>
+<p>You can read the full forensic report by <a href="https://hackmd.io/VbZAbcETQPGsrWOHqo6woQ">clicking here</a>.</p>
                 
                   
                     
@@ -657,7 +720,7 @@
 <div class="md-source-date">
   <small>
     
-      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="December 14, 2025 14:13:34 UTC">December 14, 2025</span>
+      Last update: <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="December 14, 2025 14:41:26 UTC">December 14, 2025</span>
     
   </small>
 </div>
