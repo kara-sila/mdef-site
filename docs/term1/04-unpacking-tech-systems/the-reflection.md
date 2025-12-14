@@ -12,3 +12,12 @@ By hacking different parts of the radio, I realized how much of a creative act h
 
 I learned a lot, by failing a lot.
 
+### The Zine
+
+This zine is also created from an obsolete paper, without using any technology whatsoever other than pens (not even scissors).
+<iframe src="https://docs.google.com/presentation/d/11oCg4Rsn-FZ2pStcVxBpAlO79dZgjudHXdQ-UKLD75g/edit?usp=sharing"
+        frameborder="0"
+        width="960"
+        height="569"
+        allowfullscreen="true"></iframe>
+
