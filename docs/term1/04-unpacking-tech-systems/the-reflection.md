@@ -21,3 +21,5 @@ This zine is also created from an obsolete paper, without using any technology w
         height="569"
         allowfullscreen="true"></iframe>
 
+
+Here you can access all the materials created during this course by [clicking here](https://drive.google.com/drive/u/0/folders/1OZxCRbAHARIJJJUJeOI8bP1GqxXKV5md)
