@@ -46,9 +46,7 @@ We used a Barduino, DFmini player, a speaker and a joystick. We recorded the aud
 ![circuit](https://github.com/user-attachments/assets/e88bdae8-5d84-4dcf-a451-38c53bb23a6e)
 
 For the mechanism of jack-in-the-box system, we tried different propotoypes first using cardboard, then we laser cut MDF pieces and 3D printed some parts to test the mechanism. 
-<img width="779" height="935" alt="1" src="https://github.com/user-attachments/assets/094001f3-5075-4517-af06-7befe658f148" /> <img width="348" height="670" alt="2" src="https://github.com/user-attachments/assets/e7d8fb90-19c6-4de1-a77b-9922c3b562c3" />
-<img width="936" height="756" alt="3" src="https://github.com/user-attachments/assets/34594fdb-05a7-441c-86c3-3170edd375ee" /> <img width="938" height="1029" alt="5" src="https://github.com/user-attachments/assets/2ff21477-2467-4a42-a3df-a6bbbdecef83" />
-<img width="823" height="1266" alt="6" src="https://github.com/user-attachments/assets/8c03415f-1edc-4dda-aa55-e0117e84305e" />
+<img width="3919" height="1032" alt="Frame 12" src="https://github.com/user-attachments/assets/3e88b438-cac1-43d9-82e7-3943ef0691a5" />
 
 ### The System Diagram
 <img width="1003" height="461" alt="Screenshot 2025-12-14 at 16 56 46" src="https://github.com/user-attachments/assets/edac11c9-8ffa-486a-8425-ec2294acd424" />
