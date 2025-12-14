@@ -49,7 +49,7 @@ For the mechanism of jack-in-the-box system, we tried different propotoypes firs
 <img width="3919" height="1032" alt="Frame 12" src="https://github.com/user-attachments/assets/3e88b438-cac1-43d9-82e7-3943ef0691a5" />
 
 ### The System Diagram
-<img width="1003" height="461" alt="Screenshot 2025-12-14 at 16 56 46" src="https://github.com/user-attachments/assets/edac11c9-8ffa-486a-8425-ec2294acd424" />
+<img width="996" height="438" alt="Screenshot 2025-12-14 at 16 56 46" src="https://github.com/user-attachments/assets/67ae023e-30e9-40f2-9a79-2100639cd93e" />
 
 Full Presentation:
 [Group 4_The Radio_Final Presentation.pdf](https://github.com/user-attachments/files/24151367/Group.4_The.Radio_Final.Presentation.pdf)
