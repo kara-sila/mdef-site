@@ -11,3 +11,21 @@ While thinking about a support structure for a non-subordinate AI, we didn't wan
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT3RgA8IFGrSgeatqLkZTFBWmRU09hy82I3Yqmb46AhPDhDHJJTWX-aPNaiNEmFgWK4hwkd3X-_WKU2/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ![IMG_0511](https://github.com/user-attachments/assets/87ccb071-bbe7-4408-81a8-494224cfdd19)
+
+## Day 2: Collective Intelligences
+To interrupt the assumption that intelligence lives inside individuals.
+The aim is to create conceptual space forimagining collective intelligence
+as an entity with its own modes of attention, wellbeing, and presence, 
+not reducible to any member.
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSlmg-zipYALxs1gX9pdL8idp_MqFLmarfsIR8j-UyyvbZSLQLkMTSqln2tpWNadjehHPRMiZw0J2W7/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe
+
+
+## Day 3: Biological, Ecological or Environmental Intelligences
+To detach environmental intelligence from ecological or biological thinking.
+You have to explore an intelligence that exists completely indifferent to organisms,
+ecosystems, or life processes. The aim is to imagine intelligence outside any value
+system tied to living beings.
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRXP8lQ26WnPCtU3OgRwp2Q_luJvLrNLuPnhWSSkWp8D9NDw4ejt9OUDSbV1_UAd0td74cgoBq1EduH/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
