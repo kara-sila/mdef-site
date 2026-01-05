@@ -1,4 +1,4 @@
-![IMG_3251](https://github.com/user-attachments/assets/726ff8fa-6fca-4a25-af1f-76a0342aa24e)# Living With Your Own Ideas
+# Living With Your Own Ideas
 
 ## To Become the Best Version of Yourself
 
