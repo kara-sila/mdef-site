@@ -37,3 +37,4 @@ While I was the subject; i stayed in the class for couple minutes and then fleed
 ![IMG_3251](https://github.com/user-attachments/assets/8c76fbc9-c1f8-4414-881b-83497fa65c29)
 
 Here is my report as an detective;
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/slides/ruhBBNDBPsgxIYqUDo4egr/sila-the-detective?node-id=1-48&embed-host=share" allowfullscreen></iframe>
