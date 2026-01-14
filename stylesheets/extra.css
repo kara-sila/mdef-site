@@ -5,28 +5,28 @@
     --md-footer-bg-color--dark: white;
     --md-footer-fg-color--lighter:  rgb(32, 32, 32);
     --md-footer-fg-color--light:  rgb(32, 32, 32);
-    --mdc-typography-headline6-font-family: 'Be Vietnam', sans-serif;
-    --mdc-typography-font-family: 'Be Vietnam', sans-serif;
+    --mdc-typography-headline6-font-family: 'Space Grotesk', sans-serif;
+    --mdc-typography-font-family: 'Space Grotesk', sans-serif;
     --md-typeset-a-color: rgb(12, 240, 190);
 
 }
 
 /* Dark blue background for the entire website */
 body {
-    background-color: #202322 !important;
+    background-color: #13151f !important;
     color: #e7e6ff !important;
 }
 
 .md-main {
-    background-color: #202322 !important;
+    background-color: #13151f !important;
 }
 
 .md-content {
-    background-color: #202322 !important;
+    background-color: #13151f !important;
 }
 
 .md-container {
-    background-color: #202322 !important;
+    background-color: #13151f !important;
 }
 
 /* Set text color for all content */
@@ -73,15 +73,15 @@ body {
 
 /* Footer text */
 .md-footer {
-    background-color: #090638 !important;
+    background-color: #13151f !important;
 }
 
 .md-footer-meta {
-    background-color: #e7e6ff !important;
+    background-color: #13151f !important;
 }
 
 .md-footer-meta__inner {
-    color: #e7e6ff !important;
+    color: #13151f !important;
 }
 
 
@@ -102,7 +102,7 @@ body {
 .cardContent {
   padding: 16px;
   font-size: 16px;
-  color: rgb(32, 32, 32);
+  color: rgb(10, 15, 14);
 }
 
 .md-typeset h2 {
