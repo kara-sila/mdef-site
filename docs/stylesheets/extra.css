@@ -1,10 +1,10 @@
 :root>* {
 
     --md-footer-bg-color: white;
-    --md-footer-fg-color: rgb(32, 32, 32);
+    --md-footer-fg-color: rgb(231, 230, 255);
     --md-footer-bg-color--dark: white;
-    --md-footer-fg-color--lighter:  rgb(32, 32, 32);
-    --md-footer-fg-color--light:  rgb(32, 32, 32);
+    --md-footer-fg-color--lighter:  rgb(231, 230, 255);
+    --md-footer-fg-color--light:  rgb(231, 230, 255);
     --mdc-typography-headline6-font-family: 'Space Grotesk', sans-serif;
     --mdc-typography-font-family: 'Space Grotesk', sans-serif;
     --md-typeset-a-color: rgb(12, 240, 190);
