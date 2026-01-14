@@ -30,10 +30,9 @@ nav:
           - Design with Others: term1/05-design-with-others.md
           - Fundamentals for Future Makers: term1/06-fundamentals-for-future-makers.md
           - Narratives I: term1/07-narratives-I.md
-
-     # - Term 2:
-     #     - digi: term1/01-Bootcamp.md
-     #     - studio: term1/01-Bootcamp.md
+      - Term 2:
+         - Design Studio II:
+           - x: term2/design-studio-II/x.md
 
 
 
