@@ -7,7 +7,7 @@
     --md-footer-fg-color--light:  rgb(231, 230, 255);
     --mdc-typography-headline6-font-family: 'Space Grotesk', sans-serif;
     --mdc-typography-font-family: 'Space Grotesk', sans-serif;
-    --md-typeset-a-color: rgb(3, 3, 14);
+    --md-typeset-a-color: rgb(55, 55, 230); /* 3,3,14 */
 
 }
 
@@ -76,7 +76,7 @@ body {
 }
 
 .md-nav__link--active {
-    color: #0d0db8 !important;/* #03038c !important;*/
+    color: #3737e6 !important;/* #03038c !important;*/
     font-weight: 500;
 }
 
