@@ -68,7 +68,7 @@ body {
 }
 
 .md-nav__link {
-    color: #e7e6ff !important;
+    color: #03038c !important;/* #e7e6ff !important;*/
 }
 
 .md-nav__link:hover {
@@ -76,7 +76,7 @@ body {
 }
 
 .md-nav__link--active {
-    color: #03038c !important;
+    color: #0d0db8 !important;/* #03038c !important;*/
     font-weight: 500;
 }
 
