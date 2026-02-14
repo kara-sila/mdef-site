@@ -1,5 +1,6 @@
 # The Altered Present Metronom
 Exploring digital presence as a collective condition, using AI to reconfigure how bodies relate to space and to each other.
+
 [--> Go to the Hackster.io documentation](https://www.hackster.io/544089/altered-present-metronom-e3a06a)
 
 ### Background
@@ -54,7 +55,7 @@ Early on the ideation, after deciding on the 3D shape, we wanted to use wood to 
 * I had the change to test my idea and I did open up my horizon more on my personal project. However, I believe using AI is not helping people to interact their environments more. Where it also creates a dilemma of attaching people more from reality.
 * We didn't have time and resources (portable projection) to test the idea in intended usage areas. This could have give us more feedbacks. We only tested within class; however, I believe it doesn't reflect truly.
 * Metronom device could have been improved more. It could be more interactive, welcoming the users and explaining how and why to use. We wanted to implement also a way other then an APP to capture their environment and connect with the TouchDesigner.
-* We could have tried other technologies than TouchDesigner or AI Technolog which was problematic.
+* We could have tried other technologies than TouchDesigner or AI Technology which was problematic.
 * One of our main problems was the representation and alteration of human bodies with AI. Eventhough prompted otherwise, AI altered human bodies in a way that is conflicting with our intention.
 
 
