@@ -58,4 +58,4 @@ Early on the ideation, after deciding on the 3D shape, we wanted to use wood to 
 * One of our main problems was the representation and alteration of human bodies with AI. Eventhough prompted otherwise, AI altered human bodies in a way that is conflicting with our intention.
 
 
-This was really a hands on course where we had to change to prototype, where I had a lot of fun! I'd like to than my teammate Armin for collaboration, and to our instructors Santi, Julia, Mikel.
+This was really a hands on course where we had to change to prototype, where I had a lot of fun! I'd like to thank my teammate Armin for collaboration, and to our instructors Santi, Julia, Mikel.
