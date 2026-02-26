@@ -20,8 +20,11 @@ Shouts → resist the capitalization of your private space and your most intimat
 - Notion of living and feeling home → in its roots and from every aspect.
 Collective → home needs something very different for everyone but i want to focus on a generation. for us it’s so different than our grandparents.
 
+
 #### my lil poem:
-creating a home is an act of healing
-feels like a sweet summer breeze
-almost like a sense of hope
-to finally belong
+ creating a home is an act of healing <br/>
+ feels like a sweet summer breeze <br/>
+ almost like a sense of hope <br/>
+ to finally belong <br/>
+
+ 
