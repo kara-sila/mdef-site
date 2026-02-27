@@ -6,5 +6,11 @@ Does everyone has a community they can feel seen?
 
 ![IMG_5171](https://github.com/user-attachments/assets/a95a4169-1dec-42d6-a19a-fbc4d462316c)
 
+I don't know how to explain my feelings when i'm with people that feel like my community. Our day at Cal Negre felt the same, maybe because of the lovely people we met, maybe because of the clay, but paella definitely played an important role. Eating together is an amazing for of community-making. 
+
+---
+
 Also, the notion of private was one of the things that stayed and traveled with me. Especially the obsession for privacy in a post-private state, as Mercedes puts it. what is a post-private state? How other ways do we give consent in our daily lives? 
 When it comes to sex, dungeons and power-play it becomes essential to get consent even both written and vocal. Everything becomes more sensitive and we feel like we should bee more diligent. Why don’t we follow a similar practice in our daily lives? Why the sensitivity only becomes visible when people are vulnerable? Is it because of a form of fear? What other ways we show our sensibility and vulnerability?
+
+<img width="1474" height="851" alt="Screenshot 2026-02-27 at 18 09 45" src="https://github.com/user-attachments/assets/a08105fa-d8af-4b33-8c6d-908dbeea5ab7" />
