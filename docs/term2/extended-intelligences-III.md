@@ -19,6 +19,7 @@ I am carrying the framework I wrote as an initial proposal.
 It seems like a good image for what knowledge production might aspire to be: alive, relational, surprising, dependent on care, and not entirely under anyone's control.
 
 And here is my framework:
-[Brain Organoids I.pdf](https://github.com/user-attachments/files/28192966/Brain.Organoids.I.pdf)
-[Brain Organoids II.pdf](https://github.com/user-attachments/files/28192970/Brain.Organoids.II.pdf)
+<img width="1785" height="1833" alt="Brain Organoids I" src="https://github.com/user-attachments/assets/3e94dc4d-987b-456a-8a2f-c3bc35728b2c" />
+<img width="1785" height="1998" alt="Brain Organoids II" src="https://github.com/user-attachments/assets/50b67601-c3ed-4b23-a22b-462e0e208b93" />
+
 
