@@ -37,6 +37,18 @@ At the end I removed the breadboard and used perforated board to make my electro
 The project sits within a broader inquiry into bodily autonomy and spatial politics in public transit corridors, developed through the Affective Ruptures research. Drawing on Kristina Hook's somaesthetics, the design takes seriously the idea that the body is a site of knowing, not just a vessel that carries a mind through space. The vibration is not a notification. It is an interruption, a rupture in the trained compliance that public spaces produce.
 Audre Lorde's writing on the uses of the erotic, and Adrienne Maree Brown's emergent strategy framework, both suggest that pleasure and sensation are not secondary to political life but constitutive of it. A wearable that continuously monitors and responds to proximity asks the wearer to remain attentive to their own boundaries, not as a cognitive act but as a felt, ongoing experience.
 
+Also, another part of the project was the Card Deck which was used within the protocol of the performance, especially during the workshop. For the full Card deck you can check this pdf:
+[Card Deck.pdf](https://github.com/user-attachments/files/29216604/Card.Deck.pdf)
+
+These were the initial visuals created for the cards by yours truly;
+<img width="1668" height="2388" alt="Untitled_Artwork" src="https://github.com/user-attachments/assets/c9ce540f-5f6f-4d9b-98cc-c69333bbc1c8" />
+<img width="1668" height="2388" alt="Untitled_Artwork 3" src="https://github.com/user-attachments/assets/0a2d1784-fb06-4291-85df-e3b2f24e2cbc" />
+<img width="1668" height="2388" alt="Untitled_Artwork 2" src="https://github.com/user-attachments/assets/99b8a570-a193-4b79-8425-1749abc1dc78" />
+
+
+
 <img width="640" height="480" alt="IMG_7549" src="https://github.com/user-attachments/assets/b63622c6-fb94-4b84-a436-72da3e68869e" />
 
+### Cognitive Contribution Label (CCL)
+<img width="1200" height="560" alt="CCL_Affective_Ruptures_Sıla" src="https://github.com/user-attachments/assets/65f8b271-302e-4532-8938-5eecddf74680" />
 
