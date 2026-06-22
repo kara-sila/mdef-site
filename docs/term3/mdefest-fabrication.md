@@ -46,6 +46,8 @@ These were the initial visuals created for the cards by yours truly;
 <img width="1668" height="2388" alt="Untitled_Artwork 2" src="https://github.com/user-attachments/assets/99b8a570-a193-4b79-8425-1749abc1dc78" />
 
 
+## "We cannot build a better world from a place of numbness and deprivation. We need to practice feeling good as part of how we get free."
+Adrienne Maree Brown, Pleasure Activism, 2019
 
 <img width="640" height="480" alt="IMG_7549" src="https://github.com/user-attachments/assets/b63622c6-fb94-4b84-a436-72da3e68869e" />
 
