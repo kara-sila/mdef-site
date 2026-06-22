@@ -2,6 +2,8 @@
 
 <img width="684" height="581" alt="Screenshot 2026-06-19 at 18 11 13" src="https://github.com/user-attachments/assets/e41ae13a-e482-4a67-be67-5b5a741c08e4" />
 
+## Project Website: https://kara-sila.github.io/affective-ruptures/
+
 
 ## Affective Ruptures: Reclaiming Joy in Public Space
 This research began with a simple question: how can we trigger bizzare behaviours in public spaces where it is not expected or allowed. The main idea is that triggering bizzare behaviors through sensory devices and somatic practices will allow us to reclaim our presence and use joy as a political act. The initial impulse was to make that invisible threshold tangible, not through representation but through direct somatic experience. The wearable module became the material answer to that question together with the card deck.
