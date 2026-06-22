@@ -2,7 +2,7 @@
 
 <img width="684" height="581" alt="Screenshot 2026-06-19 at 18 11 13" src="https://github.com/user-attachments/assets/e41ae13a-e482-4a67-be67-5b5a741c08e4" />
 
-## [Project Website: https://kara-sila.github.io/affective-ruptures/](https://kara-sila.github.io/affective-ruptures/)
+### [Project Website: https://kara-sila.github.io/affective-ruptures/](https://kara-sila.github.io/affective-ruptures/)
 
 
 ## Affective Ruptures: Reclaiming Joy in Public Space
