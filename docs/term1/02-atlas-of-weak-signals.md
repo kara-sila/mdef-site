@@ -43,7 +43,20 @@ Main idea was on the post-capitalist care, and the other signals were  border re
 
 <img width="1033" height="735" alt="Screenshot 2026-07-01 at 13 16 59" src="https://github.com/user-attachments/assets/4f695e5f-9bc8-45fa-a333-300d18f9ff41" />
 
-### Connecting Weak Signals to My Research 
+
 
 ## Exercise 03
-New week signals, triggers and opportunity areas.
+New week signals, random triggers and opportunity areas.
+
+### Signals
+<img width="1480" height="396" alt="Screenshot 2026-07-01 at 17 44 45" src="https://github.com/user-attachments/assets/efa3d672-ef03-4d71-b388-12d1c5dec158" />
+<img width="1172" height="394" alt="Screenshot 2026-07-01 at 17 44 56" src="https://github.com/user-attachments/assets/cf3a5d91-9c61-40dc-bb54-99f8b7fa4c44" />
+
+### Triggers
+<img width="1488" height="420" alt="Screenshot 2026-07-01 at 17 46 55" src="https://github.com/user-attachments/assets/334e0b30-7c13-4f42-bc34-dfa941eac89c" />
+
+### Opportunities
+<img width="1476" height="416" alt="Screenshot 2026-07-01 at 17 47 07" src="https://github.com/user-attachments/assets/915ffb04-2821-44ef-ba15-71522f28e463" />
+
+
+
